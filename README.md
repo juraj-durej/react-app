@@ -28,6 +28,6 @@ Dockerize app with tag and name react-app
 
 ### `docker run -it --rm --env REACT_APP_BACKEND_URL="http://localhost:8081/api" -p 3000:3000 react-app:1.0.0`
 
-Rubs dockerized app with tag and name react-app and set backend url ENV
+Runs dockerized app with tag and name react-app and set backend url ENV
 
 
